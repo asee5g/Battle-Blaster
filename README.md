@@ -31,17 +31,10 @@ This project demonstrates player combat, shooting mechanics, and health systems.
 
 ---
 
-## 🔗 Full Project Download
+## 🔗 Game Play Video
 To explore the complete Unreal project with assets:  
-👉 [Insert Google Drive or OneDrive link here]
-
----
-
-## ⚙️ How to Run
-1. Clone this repository  
-2. Open `BattleBlaster.uproject` in Unreal Engine 5  
-3. Compile C++ code if prompted  
-4. Play in the editor or package the project  
+👉 https://drive.google.com/file/d/1hQrjPg_A6zDuZlHHtYAuyeUzy08Zkecp/view?usp=drive_link
+ 
 
 ---
 
