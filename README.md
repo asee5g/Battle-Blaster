@@ -33,7 +33,7 @@ This project demonstrates player combat, shooting mechanics, and health systems.
 
 ## 🔗 Game Play Video
 To explore the complete Unreal project with assets:  
-👉 https://drive.google.com/file/d/1hQrjPg_A6zDuZlHHtYAuyeUzy08Zkecp/view?usp=drive_link
+👉 https://drive.google.com/file/d/1-Xg-qW0nLiaBVtsV6HCKXJlEhDgf7eo0/view?usp=sharing
  
 
 ---
